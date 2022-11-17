@@ -1,5 +1,5 @@
 
-//Creo array di oggetti con informazioni fornite
+//MILESTONE 0: Creo array di oggetti con informazioni fornite
 const team = [
     {
       nome: 'Wayne Barnett',
@@ -34,7 +34,7 @@ const team = [
   ];
   
   
-  //Stampo su console, per ogni membro del team, le informazioni di nome, ruolo e la stringa della foto
+  //MILESTONE 1: Stampo su console, per ogni membro del team, le informazioni di nome, ruolo e la stringa della foto
 
   let userInfos = "";
 
